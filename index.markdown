@@ -6,6 +6,8 @@ layout: home
 ---
 Site under construction!
 
+![construction](content/construction.gif)
+
 # About
 I'm a fourth-year PhD candidate in the LIGO Lab at MIT. 
 I'm interested in gravitational waves, multi-messenger astronomy, and how we can use both gravity and light to learn about the universe.
