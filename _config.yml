@@ -23,9 +23,10 @@ email: gmo@mit.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Astrophysics PhD candidate at MIT
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://geoffreymo.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: gmo_omg
 github_username:  geoffreymo
+author: Geoffrey Mo (he/him)
 
 # Build settings
 theme: minima
