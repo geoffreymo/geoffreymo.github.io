@@ -19,5 +19,5 @@ I'm interested in gravitational waves, multi-messenger astronomy, and how we can
 
 If you'd like to chat, feel free to email me at [gmo@mit.edu](mailto:gmo.mit.edu).
 
-This site remains under construction!
+This site remains under construction! More coming soon.
 ![construction](assets/img/construction.gif)
