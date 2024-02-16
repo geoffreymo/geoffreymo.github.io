@@ -6,7 +6,7 @@ main:
     journal_short: ArXiV
     journal: Submitted
     pdf: https://arxiv.org/abs/2402.09684
-    image: ./assets/img/papers/single-hosts.png
+    image: ./assets/img/papers/single-host.png
 
   - title: Multi-messenger astrophysics in the gravitational-wave era
     authors: <strong>Geoffrey Mo</strong>, Rahul Jayaraman, Danielle Frostig, Michael Fausnaugh, Erik Katsavounidis, George Ricker
