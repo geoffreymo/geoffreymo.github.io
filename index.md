@@ -42,4 +42,8 @@ I have been fortunate to have the opportunity to teach and mentor students at MI
 - Undergraduate TA and lab assistant for E&M, Contemporary Physics Lab, and Intro to Astronomy (2017-2019)
 - Department-appointed tutor for E&M
 
+## Publications
+I've included below papers for which I've made direct contributions.
+As a member of the LIGO Scientific Collaboration since 2018, I am also an author on LSC collaboration papers.
+
 {% include_relative _includes/publications.md %}
