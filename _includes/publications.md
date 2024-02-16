@@ -1,4 +1,6 @@
 <h2 id="publications" style="margin: 2px 0px -15px;">Publications</h2>
+I've included below papers for which I've made direct contributions.
+As a member of the LIGO Scientific Collaboration since 2018, I am also an author on LSC collaboration papers.
 
 <div class="publications">
 <ol class="bibliography">
