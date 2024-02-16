@@ -20,8 +20,8 @@ As a member of the LIGO Scientific Collaboration since 2018, I am also an author
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="{{ link.pdf }}">{{ link.title }}</a></div>
       <div class="author">{{ link.authors }}</div>
-      <div class="year">{{ link.year }}</div>
       <div class="periodical"><em>{{ link.journal }}</em>
+      <div class="year">{{ link.year }}</div>
       </div>
     <div class="links">
       {% if link.pdf %} 
