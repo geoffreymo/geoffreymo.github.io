@@ -4,7 +4,8 @@ layout: homepage
 
 ## About Me
 
-I'm a PhD candidate in the [LIGO Lab at MIT](https://ligolab.mit.edu/) and at the [MKI Kavli Institute for Astrophysics and Space Research](https://space.mit.edu/), where I work with Erik Katsavounidis on multi-messenger astrophysics.
+I'm a PhD candidate in the [LIGO Lab at MIT](https://ligolab.mit.edu/) and at the [MKI Kavli Institute for Astrophysics and Space Research](https://space.mit.edu/), where I work with Erik Katsavounidis on multi-messenger astrophysics. 
+Previously, I was an undergraduate at [Carleton College](https://carleton.edu/).
 
 I'm interested in gravitational waves, multi-messenger astronomy, and how we can use both gravity and light to learn about the universe.
 Most recently, I've been interested in using [TESS](https://tess.mit.edu/) and [WINTER](https://arxiv.org/abs/2102.01109) to look for electromagnetic counterparts to gravitational waves.
