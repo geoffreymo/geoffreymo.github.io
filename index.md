@@ -4,20 +4,42 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I'm a PhD candidate in the [LIGO Lab at MIT](https://ligolab.mit.edu/), where I work with Erik Katsavounidis on multi-messenger astrophysics.
 
-## Research Interests
+I'm interested in gravitational waves, multi-messenger astronomy, and how we can use both gravity and light to learn about the universe.
+Most recently, I've been interested in using [TESS](https://tess.mit.edu/) and [WINTER](https://arxiv.org/abs/2102.01109) to look for electromagnetic counterparts to gravitational waves.
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+If you'd like to chat, feel free to email me at [gmo@mit.edu](mailto:gmo.mit.edu)!
 
-## News
+## Research interests
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **Multi-messenger astrophysics**: electromagnetic counterparts to gravitational waves, compact binary progenitors, sky localization of gravitational waves, gravitational waves from unusual sources
+- **LIGO**: low-latency infrastructure, [gwcelery](https://git.ligo.org/emfollow/gwcelery), detector characterization
+- **All-sky surveys**: [WINTER](http://winter.caltech.edu/), [TESS](https://tess.mit.edu/)
+
+
+## Service
+
+I am passionate about making physics and astrophysics more inclusive,
+and have been involved in efforts to make meaningful changes in my department and beyond.
+
+- Admissions for the MIT Summer Research Program, targeted at recruiting underrepresented undergradutes to spend a summer conducting research at MIT (2021, 2022, 2023, 2024)
+- Mentor for MIT PhysGAAP, a program to help prospective graduate students with their applications to help foster a diverse graduate student body (2023)
+- MIT Kavli Institute coffee czar (2022 - present)
+- Faculty search committee, MIT Astrophysics (2021)
+- MIT Kavli Institute Anti-Racism Task Force (2020)
+- Various roles at Carleton, including being a Student Departmental Advisor and serving on the Departmental Curriculum Committee (2017-2019)
+
+
+## Teaching
+I have been fortunate to have the opportunity to teach and mentor students at MIT and at Carleton.
+
+### MIT
+- TA for 8.021 E&M (Fall 2020, Fall 2022, Fall 2023)
+- Graduate student mentor for three undergraduate researchers (2020-2022)
+
+### Carleton
+- Undergraduate TA and lab assistant for E&M, Contemporary Physics Lab, and Intro to Astronomy (2017-2019)
+- Department-appointed tutor for E&M
 
 {% include_relative _includes/publications.md %}
-
-{% include_relative _includes/services.md %}
