@@ -1,22 +1,26 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
+  - title: Identifying the hosts of binary black hole and neutron star-black hole mergers with next-generation gravitational-wave detectors
+    authors: <strong>Geoffrey Mo</strong>, Hsin-Yu Chen
+    year: 2024
+    journal_short: ArXiV
+    journal: Submitted
+    pdf: https://arxiv.org/abs/2402.09684
     image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - title: Multi-messenger astrophysics in the gravitational-wave era
+    authors: <strong>Geoffrey Mo</strong>, Rahul Jayaraman, Danielle Frostig, Michael Fausnaugh, Erik Katsavounidis, George Ricker
+    year: 2023
+    journal_short: TAUP
+    journal: Proceedings from TAUP 2023 (XVIII International Conference on Topics in Astroparticle and Underground Physics 2023)
+    pdf: https://arxiv.org/abs/2311.10229
+    image: ./assets/img/teaser_example_2.png
+
+  - title: Searching for Gravitational-wave Counterparts Using the Transiting Exoplanet Survey Satellite
+    authors: <strong>Geoffrey Mo</strong>, Rahul Jayaraman, Michael Fausnaugh, Erik Katsavounidis, George Ricker, Roland Vanderspek
+    year: 2023
+    journal_short: ApJL
+    journal: The Astrophysical Journal Letters
+    pdf: https://arxiv.org/abs/2302.04881
+    page: https://iopscience.iop.org/article/10.3847/2041-8213/acca70
+    image: ./assets/img/teaser_example_2.png
