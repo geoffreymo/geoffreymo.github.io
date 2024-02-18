@@ -84,6 +84,7 @@ main:
     year: 2019
     journal_short: CPT
     journal: Proceedings from Eighth Meeting on CPT and Lorentz Symmetry, Bloomington, Indiana, May 12-16, 2019
+    journal_url: https://www.worldscientific.com/worldscibooks/10.1142/11655
     pdf: https://arxiv.org/abs/1912.07591
     image: ./assets/img/papers/microscope-proceeding.png
 
