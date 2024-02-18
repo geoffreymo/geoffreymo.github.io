@@ -17,6 +17,14 @@ main:
     pdf: https://arxiv.org/abs/2311.10229
     image: ./assets/img/papers/taup.png
 
+  - title: Low-latency gravitational wave alert products and their performance in anticipation of the fourth LIGO-Virgo-KAGRA observing run
+    authors: Sushant Sharma Chaudhary, Andrew Toivonen, Gaurav Waratkar, <strong>Geoffrey Mo</strong>, et al.
+    year: 2023
+    journal_short: ArXiV
+    journal: Submitted
+    pdf: https://arxiv.org/abs/2308.04545
+    image: ./assets/img/papers/o4-mdc.png
+
   - title: Searching for Gravitational-wave Counterparts Using the Transiting Exoplanet Survey Satellite
     authors: <strong>Geoffrey Mo</strong>, Rahul Jayaraman, Michael Fausnaugh, Erik Katsavounidis, George Ricker, Roland Vanderspek
     year: 2023
