@@ -63,7 +63,7 @@ main:
     image: ./assets/img/papers/earlywarning.png
 
   - title: A Coincidence Null Test for Poisson-Distributed Events
-    authors: Reed Essick, Geoffrey Mo, Erik Katsavounidis
+    authors: Reed Essick, <strong>Geoffrey Mo</strong>, Erik Katsavounidis
     year: 2021
     journal_short: PRD
     journal: Physical Review D
