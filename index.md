@@ -2,7 +2,7 @@
 layout: homepage
 ---
 
-## About Me
+## About me
 
 I'm a PhD candidate in the [LIGO Lab at MIT](https://ligolab.mit.edu/) and at the [MKI Kavli Institute for Astrophysics and Space Research](https://space.mit.edu/), where I work with Erik Katsavounidis on multi-messenger astrophysics. 
 Previously, I was an undergraduate at [Carleton College](https://carleton.edu/).
