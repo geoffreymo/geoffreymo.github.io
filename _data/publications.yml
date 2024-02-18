@@ -13,6 +13,7 @@ main:
     year: 2023
     journal_short: TAUP
     journal: Proceedings from TAUP 2023 (XVIII International Conference on Topics in Astroparticle and Underground Physics 2023)
+    journal_url: https://pos.sissa.it/441/105/pdf
     pdf: https://arxiv.org/abs/2311.10229
     image: ./assets/img/papers/taup.png
 
