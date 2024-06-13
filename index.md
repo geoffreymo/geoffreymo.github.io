@@ -15,8 +15,8 @@ If you'd like to chat, feel free to email me at [gmo@mit.edu](mailto:gmo.mit.edu
 
 ## Research interests
 
-- **Multi-messenger astrophysics**: electromagnetic counterparts to gravitational waves, compact binary progenitors, sky localization of gravitational waves, gravitational waves from unusual sources
-- **Compact binaries**: periodicity searches, ultracompact binaries, compact binaries in globular clusters
+- **Multi-messenger astrophysics**: electromagnetic counterparts to gravitational waves, sky localization of gravitational waves, gravitational waves from unusual sources
+- **Compact binaries**: periodicity searches, ultracompact binaries, binary progenitors, compact binaries in globular clusters
 - **LIGO**: low-latency infrastructure, [gwcelery](https://git.ligo.org/emfollow/gwcelery), detector characterization
 - **All-sky surveys**: [WINTER](http://winter.caltech.edu/), [TESS](https://tess.mit.edu/), [ZTF](https://www.ztf.caltech.edu/)
 
