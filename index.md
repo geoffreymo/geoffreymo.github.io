@@ -7,16 +7,18 @@ layout: homepage
 I'm a PhD candidate in the [LIGO Lab at MIT](https://ligolab.mit.edu/) and at the [MKI Kavli Institute for Astrophysics and Space Research](https://space.mit.edu/), where I work with Erik Katsavounidis on multi-messenger astrophysics. 
 Previously, I was an undergraduate at [Carleton College](https://carleton.edu/).
 
-I'm interested in gravitational waves, multi-messenger astronomy, and how we can use both gravity and light to learn about the universe.
-Most recently, I've been interested in using [TESS](https://tess.mit.edu/) and [WINTER](https://arxiv.org/abs/2102.01109) to look for electromagnetic counterparts to gravitational waves.
+I'm interested in gravitational waves, compact binaries, multi-messenger astronomy, and how we can use both gravity and light to learn about the universe.
+I'm involved with using [TESS](https://tess.mit.edu/) and [WINTER](https://arxiv.org/abs/2102.01109) to look for electromagnetic counterparts to gravitational waves.
+More recently, I've been thinking about searching for ultracompact binaries with periodicity searches in time-domain surveys.
 
 If you'd like to chat, feel free to email me at [gmo@mit.edu](mailto:gmo.mit.edu)!
 
 ## Research interests
 
 - **Multi-messenger astrophysics**: electromagnetic counterparts to gravitational waves, compact binary progenitors, sky localization of gravitational waves, gravitational waves from unusual sources
+- **Compact binaries**: periodicity searches, ultracompact binaries, compact binaries in globular clusters
 - **LIGO**: low-latency infrastructure, [gwcelery](https://git.ligo.org/emfollow/gwcelery), detector characterization
-- **All-sky surveys**: [WINTER](http://winter.caltech.edu/), [TESS](https://tess.mit.edu/)
+- **All-sky surveys**: [WINTER](http://winter.caltech.edu/), [TESS](https://tess.mit.edu/), [ZTF](https://www.ztf.caltech.edu/)
 
 
 ## Service
