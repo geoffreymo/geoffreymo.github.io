@@ -1,5 +1,21 @@
 main:
 
+  - title: A diverse, overlooked population of Type Ia supernovae exhibiting mid-infrared signatures of delayed circumstellar interaction
+    authors: <strong>Geoffrey Mo</strong>, Kishalay De, Eli Wiston, Nayana A.J., Raffaella Margutti, et al.
+    year: 2024
+    journal_short: ArXiV
+    journal: Submitted
+    pdf: https://arxiv.org/abs/2410.14644
+    image: ./assets/img/papers/sneIa-dcsm.png
+
+  - title: On the use of galaxy catalogs in gravitational-wave parameter estimation
+    authors: <strong>Geoffrey Mo</strong>, Carl-Johan Haster, Erik Katsavounidis
+    year: 2024
+    journal_short: ArXiV
+    journal: Submitted
+    pdf: https://arxiv.org/abs/2410.14663
+    image: ./assets/img/papers/catalog-pe.png
+
   - title: Identifying the hosts of binary black hole and neutron star-black hole mergers with next-generation gravitational-wave detectors
     authors: <strong>Geoffrey Mo</strong>, Hsin-Yu Chen
     year: 2024
@@ -7,6 +23,14 @@ main:
     journal: Submitted
     pdf: https://arxiv.org/abs/2402.09684
     image: ./assets/img/papers/single-host.png
+
+  - title: A search using GEO600 for gravitational waves coincident with fast radio bursts from SGR 1935+2154
+    authors: The LIGO Scientific Collaboration, the Virgo Collaboration, the KAGRA Collaboration (<strong>Geoffrey Mo</strong> chair of the paper writing team)
+    year: 2024
+    journal_short: ApJ
+    journal: Accepted in the Astrophysical Journal
+    pdf: https://arxiv.org/abs/2410.09151
+    image: ./assets/img/papers/sgr1935.png
 
   - title: Low-latency gravitational wave alert products and their performance in anticipation of the fourth LIGO-Virgo-KAGRA observing run
     authors: Sushant Sharma Chaudhary, Andrew Toivonen, Gaurav Waratkar, <strong>Geoffrey Mo</strong>, et al.

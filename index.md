@@ -4,12 +4,12 @@ layout: homepage
 
 ## About me
 
-I'm a PhD candidate in the [LIGO Lab at MIT](https://ligolab.mit.edu/) and at the [MKI Kavli Institute for Astrophysics and Space Research](https://space.mit.edu/), where I work with Erik Katsavounidis on multi-messenger astrophysics. 
+I'm a PhD candidate in the [LIGO Lab at MIT](https://ligolab.mit.edu/) and at the [MKI Kavli Institute for Astrophysics and Space Research](https://space.mit.edu/), where I work with Erik Katsavounidis on multi-messenger astrophysics.
 Previously, I was an undergraduate at [Carleton College](https://carleton.edu/).
 
 I'm interested in gravitational waves, compact binaries, multi-messenger astronomy, and how we can use both gravity and light to learn about the universe.
-I'm involved with using [TESS](https://tess.mit.edu/) and [WINTER](https://arxiv.org/abs/2102.01109) to look for electromagnetic counterparts to gravitational waves.
-More recently, I've been thinking about searching for ultracompact binaries with periodicity searches in time-domain surveys.
+Recently, I've been thinking about searching for compact binaries in time-domain surveys, both as long-lived periodic sources and as transients.
+I'm also involved with using [TESS](https://tess.mit.edu/) and [WINTER](https://arxiv.org/abs/2102.01109) to look for electromagnetic counterparts to gravitational waves and other explosive phenomena.
 
 If you'd like to chat, feel free to email me at [gmo@mit.edu](mailto:gmo.mit.edu)!
 
@@ -17,8 +17,8 @@ If you'd like to chat, feel free to email me at [gmo@mit.edu](mailto:gmo.mit.edu
 
 - **Multi-messenger astrophysics**: electromagnetic counterparts to gravitational waves, sky localization of gravitational waves, gravitational waves from unusual sources
 - **Compact binaries**: periodicity searches, ultracompact binaries, binary progenitors, compact binaries in globular clusters
+- **All-sky surveys**: [WINTER](http://winter.caltech.edu/), [TESS](https://tess.mit.edu/), [ZTF](https://www.ztf.caltech.edu/), [NEOWISE](https://science.nasa.gov/mission/neowise/)
 - **LIGO**: low-latency infrastructure, [gwcelery](https://git.ligo.org/emfollow/gwcelery), detector characterization
-- **All-sky surveys**: [WINTER](http://winter.caltech.edu/), [TESS](https://tess.mit.edu/), [ZTF](https://www.ztf.caltech.edu/)
 
 
 ## Service
@@ -38,7 +38,7 @@ and have been involved in efforts to make meaningful changes in my department an
 I have been fortunate to have the opportunity to teach and mentor students at MIT and at Carleton.
 
 ### MIT
-- TA for 8.021 E&M (Fall 2020, Fall 2022, Fall 2023)
+- TA for 8.021 E&M (Fall 2020, Fall 2022, Fall 2023, Fall 2024)
 - Graduate student mentor for three undergraduate researchers (2020-2022)
 
 ### Carleton
