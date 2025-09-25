@@ -4,20 +4,22 @@ layout: homepage
 
 ## About me
 
-I'm a PhD candidate in the [LIGO Lab at MIT](https://ligolab.mit.edu/) and at the [MKI Kavli Institute for Astrophysics and Space Research](https://space.mit.edu/), where I work with Erik Katsavounidis on multi-messenger astrophysics.
-Previously, I was an undergraduate at [Carleton College](https://carleton.edu/).
+Hi! I'm a Brinson Postdoctoral Fellow at the [Carnegie Observatories](https://carnegiescience.edu/obs) and at [Caltech](https://www.astro.caltech.edu/).
+I earned my PhD at MIT, at the [MIT Kavli Institute for Astrophysics and Space Research](https://space.mit.edu/) and at the [LIGO Lab](https://ligolab.mit.edu/).
+Before that, I was an undergraduate at [Carleton College](https://carleton.edu/).
 
-I'm interested in gravitational waves, compact binaries, multi-messenger astronomy, and how we can use both gravity and light to learn about the universe.
-Recently, I've been thinking about searching for compact binaries in time-domain surveys, both as long-lived periodic sources and as transients.
-I'm also involved with using [TESS](https://tess.mit.edu/) and [WINTER](https://arxiv.org/abs/2102.01109) to look for electromagnetic counterparts to gravitational waves and other explosive phenomena.
+I'm interested in how compact binaries form, evolve, and die, and how we might learn about them in both light and gravitational waves.
+In particular, I'm leading a _Hubble_ ultraviolet [time-domain survey](https://www.stsci.edu/hst-program-info/program/?program=17724) of the globular cluster 47 Tuc to search for the binaries which live in these dense stellar environments.
+I'm also working on building _Cerberus_, a three-channel high-speed imager for the 200-inch Hale telescope at Palomar Observatory, which will provide precise photometry for characterizing binaries.
 
-If you'd like to chat, feel free to email me at [gmo@mit.edu](mailto:gmo.mit.edu)!
+If you'd like to chat, feel free to email me at [gmo@caltech.edu](mailto:gmo.caltech.edu)!
 
 ## Research interests
 
-- **Multi-messenger astrophysics**: electromagnetic counterparts to gravitational waves, sky localization of gravitational waves, gravitational waves from unusual sources
-- **Compact binaries**: periodicity searches, ultracompact binaries, binary progenitors, compact binaries in globular clusters
-- **All-sky surveys**: [WINTER](http://winter.caltech.edu/), [TESS](https://tess.mit.edu/), [ZTF](https://www.ztf.caltech.edu/), [NEOWISE](https://science.nasa.gov/mission/neowise/)
+- **Compact binaries**: compact binaries in globular clusters, ultracompact binaries, Type Ia supernovae
+- **Multi-messenger astrophysics**: electromagnetic counterparts to gravitational waves, sky localization of gravitational waves
+- **Instrumentation**: low-noise, high-speed imaging
+- **Transients in all-sky surveys**: [WINTER](http://winter.caltech.edu/), [NEOWISE](https://science.nasa.gov/mission/neowise/)
 - **LIGO**: low-latency infrastructure, [gwcelery](https://git.ligo.org/emfollow/gwcelery), detector characterization
 
 
@@ -46,7 +48,4 @@ I have been fortunate to have the opportunity to teach and mentor students at MI
 - Department-appointed tutor for E&M
 
 ## Publications
-I've included below papers for which I've made direct contributions.
-As a member of the LIGO Scientific Collaboration since 2018, I am also an author on LSC collaboration papers.
-
-{% include_relative _includes/publications.md %}
+A list of my publications is available on ADS [here](https://ui.adsabs.harvard.edu/search/q=orcid%3A0000-0001-6331-112X&sort=date%20desc%2C%20bibcode%20desc&p_=0).
